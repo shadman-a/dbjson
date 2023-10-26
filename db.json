@@ -1,0 +1,116 @@
+[
+  {
+    "openHours": "Open: Sun. 12-1:30pm",
+    "price": "$4,500/mo",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "space": "1,704 sqft",
+    "address": "98 Havemeyer St, Brooklyn, NY 11211",
+    "moveInDate": "2023-12-01",
+    "description": "Spacious condo in a prime location, close to public transportation and amenities.",
+    "listingBy": "LISTING BY: NEST SEEKERS INTERNATIONAL",
+    "imageUrl": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg"
+  },
+  {
+    "price": "$5,500/mo",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "space": "2,500 sqft",
+    "address": "123 Maple St, Queens, NY 11432",
+    "moveInDate": "2023-11-15",
+    "description": "Beautiful house with large rooms and a great outdoor space, perfect for a family.",
+    "listingBy": "LISTING BY: BRIGHT REALTY",
+    "imageUrl": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg"
+  },
+  {
+    "price": "$3,200/mo",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "space": "1,900 sqft",
+    "address": "245 Oak St, Brooklyn, NY 11222",
+    "moveInDate": "2023-12-01",
+    "description": "Townhouse in a vibrant neighborhood, offering ample living space and modern amenities.",
+    "listingBy": "LISTING BY: SUNSHINE ESTATES",
+    "imageUrl": "https://images.pexels.com/photos/279719/pexels-photo-279719.jpeg"
+  },
+  {
+    "openHours": "Open: Sat. 1-3:00pm",
+    "price": "$6,000/mo",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "space": "2,100 sqft",
+    "address": "57 Pineapple St, Brooklyn, NY 11201",
+    "moveInDate": "2024-01-01",
+    "description": "Luxurious penthouse with breathtaking views and top-notch finishes throughout.",
+    "listingBy": "LISTING BY: HIGH RISE GROUP",
+    "imageUrl": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg"
+  },
+  {
+    "price": "$3,800/mo",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "space": "1,200 sqft",
+    "address": "76 Apple St, Queens, NY 11418",
+    "moveInDate": "2023-11-01",
+    "description": "Cozy apartment in a convenient location, ideal for small families or professionals.",
+    "listingBy": "LISTING BY: THE APPLE GROUP",
+    "imageUrl": "https://images.pexels.com/photos/2016/pexels-photo-2016.jpeg"
+  },
+  {
+    "openHours": "Open: Sun. 12-1:40pm",
+    "price": "$4,700/mo",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "space": "2,000 sqft",
+    "address": "88 Berry St, Brooklyn, NY 11249",
+    "moveInDate": "2023-12-15",
+    "description": "Modern condo with spacious rooms and a great community, close to popular eateries.",
+    "listingBy": "LISTING BY: URBAN LIVING",
+    "imageUrl": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg"
+  },
+  {
+    "price": "$2,800/mo",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "space": "800 sqft",
+    "address": "12 Grape St, Manhattan, NY 10002",
+    "moveInDate": "2023-11-20",
+    "description": "Affordable co-op in the heart of the city, perfect for singles or couples.",
+    "listingBy": "LISTING BY: CITY HOMES",
+    "imageUrl": "https://images.pexels.com/photos/1054974/pexels-photo-1054974.jpeg"
+  },
+  {
+    "price": "$15,000/mo",
+    "bedrooms": "5",
+    "bathrooms": "4",
+    "space": "3,500 sqft",
+    "address": "1 Sunset Blvd, Manhattan, NY 10023",
+    "moveInDate": "2024-01-10",
+    "description": "Stunning mansion with luxurious amenities and ample space for entertaining.",
+    "listingBy": "LISTING BY: LUXE ESTATES",
+    "imageUrl": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg"
+  },
+  {
+    "openHours": "Open: Sat. 11-12:30pm",
+    "price": "$7,500/mo",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "space": "2,800 sqft",
+    "address": "35 Sea View Ln, Brooklyn, NY 11209",
+    "moveInDate": "2023-11-25",
+    "description": "Elegant villa with stunning sea views and a tranquil setting, perfect for relaxation.",
+    "listingBy": "LISTING BY: COASTAL PROPERTIES",
+    "imageUrl": "https://images.pexels.com/photos/259950/pexels-photo-259950.jpeg"
+  },
+  {
+    "price": "$4,000/mo",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "space": "1,400 sqft",
+    "address": "68 Orchard St, Manhattan, NY 10002",
+    "moveInDate": "2023-11-05",
+    "description": "Charming apartment in a vibrant neighborhood, close to shops and restaurants.",
+    "listingBy": "LISTING BY: CITY VIEWS REALTY",
+    "imageUrl": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg"
+  }
+]
